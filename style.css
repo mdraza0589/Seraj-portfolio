@@ -471,6 +471,7 @@ nav .fa-solid {
         margin-top: 80%;
         /* border: solid; */
         height: fit-content;
+        margin-left: 0;
     }
     .intro h2{
         height: 30px;
